@@ -28,7 +28,8 @@ This is a simple Stone Paper Scissors game created using only **HTML**, **CSS**,
 Simply download the project files and open the `index.html` file in any modern web browser to start playing the game.
 
 ## Screenshot
-![Game Screenshot](#) *(Replace with an actual screenshot of the game)*
+![![{9A3E96F7-40CD-4D40-BAFA-873D60C3E7A7}](https://github.com/user-attachments/assets/aab78d85-a96c-42fc-bb0d-ca7cdf1c373e)
+](#) *(Replace with an actual screenshot of the game)*
 
 ---
 
